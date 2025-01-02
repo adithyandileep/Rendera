@@ -102,6 +102,58 @@ Create `.env` files in both the `Client` and `Server` directories.
 
 ---
 
+## 🏗️ Project Structure
+
+### Frontend (Client)
+The **client/** directory contains the source code and assets for the React.js frontend application.
+
+```
+Client/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── Index.css
+│   ├── main.jsx
+├── .env
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── ...
+```
+---
+
+### Backend (Server)
+The **server/** directory holds the backend application, which is responsible for the logic of handling requests, authentication, and interactions with the database.
+
+```
+Server/
+├── config/
+│   ├── mongodb.js
+├── controllers/    
+│   ├── imageController.js 
+│   ├── userController.js
+├── middlewares/
+│   ├── auth.js
+├── models/
+│   ├── transactionModel.js 
+│   ├── userModel.js  
+├── routes/          
+│   ├── imageRoutes.js  
+│   ├── userRoutes.js   
+├── .env             
+├── server.js       
+├── package-lock.json 
+├── package.json      
+└── node_modules
+```
+---
+
+
 ## 🎨 Screenshots  
 
 <div align="center">
