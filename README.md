@@ -99,19 +99,29 @@ Create `.env` files in both the `Client` and `Server` directories.
   npm run server
   ```
 
-The app will be accessible at [http://localhost:4000](http://localhost:4000) (or your specified port).
 
 ---
 
 ## 🎨 Screenshots  
 
-![Screenshot 2025-01-02 102710](https://github.com/user-attachments/assets/479850fe-399e-42da-a6e4-1cc7283beb36)
-![Screenshot 2025-01-02 102736](https://github.com/user-attachments/assets/00905f20-af1c-4391-995e-b24dbed99415)
-![Screenshot 2025-01-02 102759](https://github.com/user-attachments/assets/3e74e0cb-706f-437e-8379-a7dc13f5ca06)
-![Screenshot 2025-01-02 102811](https://github.com/user-attachments/assets/09be3f02-e60e-466a-97e5-da249a02c7ea)
-![Screenshot 2025-01-02 103617](https://github.com/user-attachments/assets/84e274ee-efe3-4447-9614-c204aa400b10)
-![Screenshot 2025-01-02 103639](https://github.com/user-attachments/assets/e0d28f72-4985-402d-8196-5bedaefe3e8d)
-![Screenshot 2025-01-02 103719](https://github.com/user-attachments/assets/767708e7-cbd9-4f48-b865-911a8b27b2db)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/479850fe-399e-42da-a6e4-1cc7283beb36" style="width: 50%">
+</div>
+
+<p align="center">
+  <img width = "45%" src="https://github.com/user-attachments/assets/3e74e0cb-706f-437e-8379-a7dc13f5ca06"> 
+  <img width = "45%" src="https://github.com/user-attachments/assets/09be3f02-e60e-466a-97e5-da249a02c7ea">
+</p>
+
+<p align="center">
+  <img width = "45%" src="https://github.com/user-attachments/assets/84e274ee-efe3-4447-9614-c204aa400b10"> 
+  <img width = "45%" src="https://github.com/user-attachments/assets/e0d28f72-4985-402d-8196-5bedaefe3e8d">
+</p>
+
+<p align="center">
+  <img width = "45%" src="https://github.com/user-attachments/assets/00905f20-af1c-4391-995e-b24dbed99415"> 
+  <img width = "45%" src="https://github.com/user-attachments/assets/767708e7-cbd9-4f48-b865-911a8b27b2db">
+</p>
 
 ---
 
